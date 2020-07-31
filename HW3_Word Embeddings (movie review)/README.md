@@ -1,0 +1,1 @@
+The data is in a folder named "aclImdb". Since the data is too large, it is not added here.
